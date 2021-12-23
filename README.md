@@ -1,8 +1,4 @@
 ### Hi there 👋
-I am Rizky Kurniawan, student of Informatics Engineering at the Islamic University of Kalimantan, Banjarmasin, South Kalimantan.
+My name is Rizky Kurniawan, Informatics Enginering Student at Islamic University Of Kalimantan. I'm from Katingan Kuala, Central Kalimantan, Indonesia. My current daily activity is learning various things related to web programming, sometimes I also work as a freelancer to create websites.
 
-I come from “Subur Indah” Village, Katingan Kuala District, Katingan Regency, Central Kalimantan, and currently live in Semangat Dalam, Alalak District, Barito Kuala Regency, South Kalimantan.
-
-Currently working as a freelancer creating websites for clients. Some of the websites that I have completed can be found here.
-
-Apart from being a freelance worker, my daily activities are learning various things about programming, especially about web backend development. Some of the programming languages ​​that I usually use are like PHP, Python, and Javascript. Some of the frameworks / technologies I’ve used are Codeigniter (PHP), Django (Python), and NodeJS (Javascript).
+I usually work with PHP programming language using CodeIgniter and Laravel framework, Also JavaScript programming language using Node, Next, and Express. Several types of relational databases that I understand such as SQL and Postgre, as well as types of non-relational databases such as MongoDB. I will continue to learn and improve my skills in the future.
