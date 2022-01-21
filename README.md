@@ -7,3 +7,5 @@ I usually work with PHP programming language using CodeIgniter and Laravel frame
 
 ### Connect With Me
 - [YouTube Channel](https://www.youtube.com/kykurniawan)
+- [Instagram](https://instagram.com/_sweet.scar)
+- [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
