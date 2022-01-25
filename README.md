@@ -10,5 +10,9 @@ I usually work with PHP programming language using CodeIgniter and Laravel frame
 - [Instagram](https://instagram.com/_sweet.scar)
 - [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
 
+### Latest YouTube Videos
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Useful Websites For You
 - [Ruang Developer](https://www.ruangdeveloper.com)
