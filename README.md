@@ -5,7 +5,7 @@ My name is Rizky Kurniawan, I'm from Katingan Kuala, Central Kalimantan, Indones
 I usually work with PHP programming language using CodeIgniter and Laravel framework, Also JavaScript programming language using Node, Next, and Express. Several types of relational databases that I understand such as SQL and Postgre, as well as types of non-relational databases such as MongoDB. I will continue to learn and improve my skills in the future.
 
 ### Get Connected With Me
-- [Website](https://www rizkykurniawan.id)
+- [Website](https://www.rizkykurniawan.id)
 - [YouTube Channel](https://www.youtube.com/kykurniawan)
 - [Instagram](https://instagram.com/_sweet.scar)
 - [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
