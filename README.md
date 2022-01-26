@@ -12,6 +12,11 @@ I usually work with PHP programming language using CodeIgniter and Laravel frame
 
 ### Latest YouTube Videos On My Channel
 <!-- VIDEO-LIST:START -->
+- [Membuat Situs Pemendek URL - Bagian 4 Membuat URL Pendek &amp; Validasi Inputan](https://www.youtube.com/watch?v=zmLwSpuMzKY)
+- [Membuat Situs Pemendek URL - Bagian 3 Membuat Tabel dan Model](https://www.youtube.com/watch?v=YPmMm17XQDc)
+- [Membuat Situs Pemendek URL - Bagian 2 Membuat Tampilan](https://www.youtube.com/watch?v=fW2CVksow9k)
+- [Membuat Situs Pemendek URL - Bagian 1 Menyiapkan Project](https://www.youtube.com/watch?v=_hPZWM6oaNA)
+- [Cara Memindahkan Lokasi Folder Htdocs XAMPP](https://www.youtube.com/watch?v=0xbSckIH1cY)
 <!-- VIDEO-LIST:END -->
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
