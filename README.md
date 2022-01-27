@@ -9,6 +9,7 @@ I usually work with PHP programming language using CodeIgniter and Laravel frame
 - [YouTube Channel](https://www.youtube.com/kykurniawan)
 - [Instagram](https://instagram.com/_sweet.scar)
 - [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
+- [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
 
 ### Latest YouTube Videos On My Channel
 <!-- VIDEO-LIST:START -->
