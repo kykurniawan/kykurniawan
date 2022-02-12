@@ -1,4 +1,6 @@
 <img width="100%" src="https://res.cloudinary.com/rizkykurniawan/image/upload/v1644680030/components/banner_fuwqqi.png" alt="Banner"/>
+
+
 # Hi there 👋
 ### Welcome to my GitHub account
 My name is Rizky Kurniawan. I'm from Katingan Kuala, Central Kalimantan, Indonesia. My current daily activity is learning various things related to web programming, sometimes I also work as a freelancer to create websites. I usually work with PHP with CodeIgniter and Laravel framework, Also JavaScript with Node, and Express. I will continue to learn and improve my skills in the future.
