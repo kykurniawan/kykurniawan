@@ -5,6 +5,17 @@
 ### Welcome to my GitHub account
 My name is Rizky Kurniawan. I'm from Katingan Kuala, Central Kalimantan, Indonesia. My current daily activity is learning various things related to web programming, sometimes I also work as a freelancer to create websites. I usually work with PHP with CodeIgniter and Laravel framework, Also JavaScript with Node, and Express. I will continue to learn and improve my skills in the future.
 
+### Licences & Certifications
+Thanks to Dicoding for giving me the opportunity to learn many things about programming.
+- [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/ERZR45R1NZYV)
+- [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/RVZK4M3OMPD5)
+- [Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud](https://www.dicoding.com/certificates/RVZK1JYKQPD5)
+- [Belajar Fundamental Aplikasi Back-End](https://www.dicoding.com/certificates/KEXL3YRJYPG2)
+- [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/MEPJ5W5EQP3V)
+- [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/ERZR5M0K2PYV)
+- [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/81P21KJENZOY)
+- [Belajar Prinsip Pemrograman SOLID](https://www.dicoding.com/certificates/4EXGY59NDXRL)
+
 ### Get Connected With Me
 - [Website](https://www.rizkykurniawan.id)
 - [YouTube Channel](https://www.youtube.com/kykurniawan)
