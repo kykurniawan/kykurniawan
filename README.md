@@ -6,7 +6,7 @@
 My name is Rizky Kurniawan. I'm from Katingan Kuala, Central Kalimantan, Indonesia. My current daily activity is learning various things related to web programming, sometimes I also work as a freelancer to create websites. I usually work with PHP with CodeIgniter and Laravel framework, Also JavaScript with Node, and Express. I will continue to learn and improve my skills in the future.
 
 ### Licences & Certifications
-Thanks to Dicoding for giving me the opportunity to learn many things about programming.
+Thanks to [Dicoding](https://www.dicoding.com/) for giving me the opportunity to learn many things about programming.
 - [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/ERZR45R1NZYV)
 - [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/RVZK4M3OMPD5)
 - [Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud](https://www.dicoding.com/certificates/RVZK1JYKQPD5)
