@@ -3,7 +3,13 @@
 
 # Hi there 👋
 ### Welcome to my GitHub account
-My name is Rizky Kurniawan. I'm from Katingan Kuala, Central Kalimantan, Indonesia. My current daily activity is learning various things related to web programming, sometimes I also work as a freelancer to create websites. I usually work with PHP with CodeIgniter and Laravel framework, Also JavaScript with Node, and Express. I will continue to learn and improve my skills in the future.
+I'm Rizky Kurniawan, I'm an undergraduate student of Informatics Engineering who loves to learn coding. My favorite programming field is Web Development, especially Back-end applications. I'm currently learning things about Back-end programming. When I learn something, my learning resources are usually official documentation, YouTube channels, web articles, online classes, and of course stack overflow.
+
+Usually I write posts in the [Ruang Developer](https://www.ruangdeveloper.com/) and upload videos on [my YouTube channel](https://www.youtube.com/kykurniawan). If you like, you can visit the [Ruang Developer](https://www.ruangdeveloper.com/) website or watch videos on [my YouTube channel](https://www.youtube.com/kykurniawan).
+
+Web technology is always evolving, as someone who wants to dive into the world of professional development I don't want to be left behind. I will continue to sharpen my skills.
+
+Thank you for knowing me.
 
 ### Licences & Certifications
 Thanks to [Dicoding](https://www.dicoding.com/) for giving me the opportunity to learn many things about programming.
