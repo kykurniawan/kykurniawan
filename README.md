@@ -40,9 +40,9 @@ Thanks to [Dicoding](https://www.dicoding.com/) for giving me the opportunity to
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- BLOG-POST-LIST:START -->
+- [Cara Deploy Aplikasi Laravel Di Heroku](https://www.ruangdeveloper.com/cara-deploy-aplikasi-laravel-di-heroku/)
 - [Alasan Kenapa Menggunakan Docker](https://www.ruangdeveloper.com/alasan-kenapa-menggunakan-docker/)
 - [Perbedaan Antara IDE dan Kode Editor](https://www.ruangdeveloper.com/perbedaan-antara-ide-dan-kode-editor/)
 - [Daftar Ekstensi Visual Studio Code Untuk Pengembangan Web](https://www.ruangdeveloper.com/daftar-ekstensi-visual-studio-code-untuk-pengembangan-web/)
 - [Perbedaan Antara Authentication dan Authorization](https://www.ruangdeveloper.com/perbedaan-antara-authentication-dan-authorization/)
-- [Apa Itu REST API?](https://www.ruangdeveloper.com/apa-itu-rest-api/)
 <!-- BLOG-POST-LIST:END -->
