@@ -40,9 +40,9 @@ Thanks to [Dicoding](https://www.dicoding.com/) for giving me the opportunity to
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- BLOG-POST-LIST:START -->
+- [Apa Itu Webhook?](https://www.ruangdeveloper.com/apa-itu-webhook/)
 - [Membuat Koneksi Database Singleton di PHP](https://www.ruangdeveloper.com/membuat-koneksi-database-singleton-di-php/)
 - [Cara Deploy Aplikasi Laravel Di Heroku](https://www.ruangdeveloper.com/cara-deploy-aplikasi-laravel-di-heroku/)
 - [Alasan Kenapa Menggunakan Docker](https://www.ruangdeveloper.com/alasan-kenapa-menggunakan-docker/)
 - [Perbedaan Antara IDE dan Kode Editor](https://www.ruangdeveloper.com/perbedaan-antara-ide-dan-kode-editor/)
-- [Daftar Ekstensi Visual Studio Code Untuk Pengembangan Web](https://www.ruangdeveloper.com/daftar-ekstensi-visual-studio-code-untuk-pengembangan-web/)
 <!-- BLOG-POST-LIST:END -->
