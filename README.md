@@ -1,6 +1,3 @@
-<img width="100%" src="https://res.cloudinary.com/rizkykurniawan/image/upload/v1644680030/components/banner_fuwqqi.png" alt="Banner"/>
-
-
 # Hi there 👋
 ### Welcome to my GitHub account
 I'm Rizky Kurniawan, I'm an undergraduate student of Informatics Engineering who loves to learn coding. My favorite programming field is Web Development, especially Back-end applications. I'm currently learning things about Back-end programming. When I learn something, my learning resources are usually official documentation, YouTube channels, web articles, online classes, and of course stack overflow.
