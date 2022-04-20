@@ -22,7 +22,7 @@ Thanks to [Dicoding](https://www.dicoding.com/) for giving me the opportunity to
 ### Get Connected With Me
 - [Website](https://www.rizkykurniawan.id)
 - [YouTube Channel](https://www.youtube.com/kykurniawan)
-- [Instagram](https://instagram.com/_sweet.scar)
+- [Instagram](https://instagram.com/qwertykurniawan)
 - [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
 - [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
 
