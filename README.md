@@ -9,7 +9,6 @@ Web technology is always evolving, as someone who wants to dive into the world o
 Thank you for knowing me.
 
 ### Licences & Certifications
-Thanks to [Dicoding](https://www.dicoding.com/) for giving me the opportunity to learn many things about programming.
 - [Node JS: Pemula Sampai Mahir by Eko Kurniawan Khannedy](https://www.udemy.com/certificate/UC-0b621e3a-c09d-4e39-b07b-e93b0c419128/)
 - [Laravel: Pemulai Sampai Mahir by Eko Kurniawan Khannedy](https://www.udemy.com/certificate/UC-72ffeaef-68f8-43de-910e-2cf7aceca9bd/)
 - [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/ERZR45R1NZYV)
