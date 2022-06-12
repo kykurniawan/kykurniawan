@@ -38,6 +38,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [My Blog](https://www.kykurniawan.com)
 <!-- BLOGGER:START -->
+- [Haruskah Saya Bergabung Dengan Organisasi Mahasiswa?](https://www.kykurniawan.com/2022/06/haruskah-saya-bergabung-dengan.html)
+- [Buat Kamu Yang Pengen Kuliah Programmer](https://www.kykurniawan.com/2022/06/buat-kamu-yang-pengen-kuliah-programmer.html)
+- [Cara Memiliki Pemikiran Yang Kritis Itu Gimana Sih?](https://www.kykurniawan.com/2022/02/cara-memiliki-pemikiran-yang-kritis-itu.html)
+- [Ketika Teman-temanmu Tidak Menghargai Kamu](https://www.kykurniawan.com/2022/02/ketika-teman-temanmu-tidak-menghargai.html)
 <!-- BLOGGER:END -->
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
