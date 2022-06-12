@@ -27,20 +27,15 @@ Thank you for knowing me.
 - [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
 - [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
 
-### Latest YouTube Videos On My Channel
-<!-- VIDEO-LIST:START -->
-- [Membuat Situs Pemendek URL - Bagian 4 Membuat URL Pendek &amp; Validasi Inputan](https://www.youtube.com/watch?v=zmLwSpuMzKY)
-- [Membuat Situs Pemendek URL - Bagian 3 Membuat Tabel dan Model](https://www.youtube.com/watch?v=YPmMm17XQDc)
-- [Membuat Situs Pemendek URL - Bagian 2 Membuat Tampilan](https://www.youtube.com/watch?v=fW2CVksow9k)
-- [Membuat Situs Pemendek URL - Bagian 1 Menyiapkan Project](https://www.youtube.com/watch?v=_hPZWM6oaNA)
-- [Cara Memindahkan Lokasi Folder Htdocs XAMPP](https://www.youtube.com/watch?v=0xbSckIH1cY)
-<!-- VIDEO-LIST:END -->
+### Latest Videos From [My YT Channel](https://www.youtube.com/kykurniawan)
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+### Latest Posts From [My Blog](https://www.kykurniawan.com)
+<!-- BLOGGER:START -->
+<!-- BLOGGER:END -->
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
-<!-- BLOG-POST-LIST:START -->
-- [Membuat Live Search Menggunakan Livewire](https://www.ruangdeveloper.com/membuat-live-search-menggunakan-livewire/)
-- [Membuat Live Search Menggunakan Alpine.js](https://www.ruangdeveloper.com/membuat-live-search-menggunakan-alpine-js/)
-- [Deploy Aplikasi CodeIgniter Kamu Gratis Di 000Webhost](https://www.ruangdeveloper.com/deploy-aplikasi-codeigniter-kamu-gratis-di-000webhost/)
-- [Mengenal Synchronous Dan Asynchronous Pada Javascript](https://www.ruangdeveloper.com/mengenal-synchronous-dan-asynchronous-pada-javascript/)
-- [Cara Menghubungkan Domain Ke Blogger](https://www.ruangdeveloper.com/cara-menghubungkan-domain-ke-blogger/)
-<!-- BLOG-POST-LIST:END -->
+<!-- RUANGDEVELOPER:START -->
+<!-- RUANGDEVELOPER:END -->
+

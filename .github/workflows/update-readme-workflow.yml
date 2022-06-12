@@ -1,0 +1,40 @@
+name: Update Readme Workflow
+
+on:
+  # Run workflow automatically
+  schedule:
+    # Runs every hour, on the hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog-post:
+    name: Update this repo's README with latest ruangdeveloper posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "RUANGDEVELOPER"
+          commit_message: "Updated readme with latest ruangdeveloper posts"
+          feed_list: "https://www.ruangdeveloper.com/feed/"
+  update-readme-with-blogger-post:
+    name: Update this repo's README with latest blogger posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOGGER"
+          commit_message: "Updated readme with latest blogger posts"
+          feed_list: "https://www.kykurniawan.com/feeds/posts/default"
+  update-readme-with-youtube-videos:
+    name: Update this repo's README with latest youtube videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          commit_message: "Updated readme with the latest youtube video"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC4G--03ELkOXX-dcSq_LMQQ"
