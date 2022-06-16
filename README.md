@@ -47,10 +47,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
-- [Search](https://www.ruangdeveloper.com/search/)
-- [Disclaimer](https://www.ruangdeveloper.com/disclaimer/)
-- [Kebijakan Privasi](https://www.ruangdeveloper.com/privacy-policy/)
-- [Tentang](https://www.ruangdeveloper.com/tentang/)
-- [Hubungi Kami](https://www.ruangdeveloper.com/hubungi-kami/)
+- [Membuat Live Search Menggunakan Livewire](https://www.ruangdeveloper.com/membuat-live-search-menggunakan-livewire/)
+- [Membuat Live Search Menggunakan Alpine.js](https://www.ruangdeveloper.com/membuat-live-search-menggunakan-alpine-js/)
+- [Deploy Aplikasi CodeIgniter Kamu Gratis Di 000Webhost](https://www.ruangdeveloper.com/deploy-aplikasi-codeigniter-kamu-gratis-di-000webhost/)
+- [Mengenal Synchronous Dan Asynchronous Pada JavaScript](https://www.ruangdeveloper.com/mengenal-synchronous-dan-asynchronous-pada-javascript/)
+- [Cara Menghubungkan Domain Ke Blogger](https://www.ruangdeveloper.com/cara-menghubungkan-domain-ke-blogger/)
 <!-- RUANGDEVELOPER:END -->
 
