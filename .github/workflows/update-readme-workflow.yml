@@ -17,7 +17,7 @@ jobs:
         with:
           comment_tag_name: "RUANGDEVELOPER"
           commit_message: "Updated readme with latest ruangdeveloper posts"
-          feed_list: "https://www.ruangdeveloper.com/feed/"
+          feed_list: "https://www.ruangdeveloper.com/index.xml"
   update-readme-with-blogger-post:
     name: Update this repo's README with latest blogger posts
     runs-on: ubuntu-latest
