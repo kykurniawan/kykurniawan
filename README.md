@@ -47,10 +47,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#2: Cara Instalasi Golang](https://www.ruangdeveloper.com/cara-instalasi-golang/)
 - [#1: Pengenalan Golang](https://www.ruangdeveloper.com/pengenalan-golang/)
 - [Membuat Live Search Menggunakan Livewire](https://www.ruangdeveloper.com/membuat-live-search-menggunakan-livewire/)
 - [Membuat Live Search Menggunakan Alpine.js](https://www.ruangdeveloper.com/membuat-live-search-menggunakan-alpine-js/)
 - [Deploy Aplikasi CodeIgniter Kamu Gratis Di 000Webhost](https://www.ruangdeveloper.com/deploy-aplikasi-codeigniter-kamu-gratis-di-000webhost/)
-- [Mengenal Synchronous Dan Asynchronous Pada JavaScript](https://www.ruangdeveloper.com/mengenal-synchronous-dan-asynchronous-pada-javascript/)
 <!-- RUANGDEVELOPER:END -->
 
