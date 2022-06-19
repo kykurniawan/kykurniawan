@@ -18,16 +18,6 @@ jobs:
           comment_tag_name: "RUANGDEVELOPER"
           commit_message: "Updated readme with latest ruangdeveloper posts"
           feed_list: "https://www.ruangdeveloper.com/posts/index.xml"
-  update-readme-with-blogger-post:
-    name: Update this repo's README with latest blogger posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "BLOGGER"
-          commit_message: "Updated readme with latest blogger posts"
-          feed_list: "https://www.kykurniawan.com/feeds/posts/default"
   update-readme-with-youtube-videos:
     name: Update this repo's README with latest youtube videos
     runs-on: ubuntu-latest

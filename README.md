@@ -36,15 +36,6 @@ Thank you for knowing me.
 - [Cara Memindahkan Lokasi Folder Htdocs XAMPP](https://www.youtube.com/watch?v=0xbSckIH1cY)
 <!-- YOUTUBE:END -->
 
-### Latest Posts From [My Blog](https://www.kykurniawan.com)
-<!-- BLOGGER:START -->
-- [Cara Menyembunyikan Shortcut Recycle Bin Di Windows 11](https://www.kykurniawan.com/2022/06/cara-menyembunyikan-shortcut-recycle-bin-windows-11.html)
-- [Lirik Lagu Tak Ingin Usai - Keisya Levronka](https://www.kykurniawan.com/2022/06/lirik-lagu-tak-ingin-usai-keisya.html)
-- [Berkunjung Ke Sawah](https://www.kykurniawan.com/2022/06/berkunjung-ke-sawah.html)
-- [Haruskah Saya Bergabung Dengan Organisasi Mahasiswa?](https://www.kykurniawan.com/2022/06/haruskah-saya-bergabung-dengan.html)
-- [Buat Kamu Yang Pengen Kuliah Programmer](https://www.kykurniawan.com/2022/06/buat-kamu-yang-pengen-kuliah-programmer.html)
-<!-- BLOGGER:END -->
-
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
 - [#3: Program Hello World Di Golang](https://www.ruangdeveloper.com/golang-hello-world/)
