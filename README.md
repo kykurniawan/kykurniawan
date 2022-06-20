@@ -38,10 +38,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#4: Tipe Data Number di Golang](https://www.ruangdeveloper.com/golang-number/)
 - [#3: Program Hello World Di Golang](https://www.ruangdeveloper.com/golang-hello-world/)
 - [#2: Cara Instalasi Golang](https://www.ruangdeveloper.com/cara-instalasi-golang/)
 - [#1: Pengenalan Golang](https://www.ruangdeveloper.com/pengenalan-golang/)
 - [Membuat Live Search Menggunakan Livewire](https://www.ruangdeveloper.com/membuat-live-search-menggunakan-livewire/)
-- [Membuat Live Search Menggunakan Alpine.js](https://www.ruangdeveloper.com/membuat-live-search-menggunakan-alpine-js/)
 <!-- RUANGDEVELOPER:END -->
 
