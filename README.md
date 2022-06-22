@@ -38,10 +38,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#3 Membuat Tampilan Halaman - Laravel Url Shorterner](https://www.ruangdeveloper.com/laravel-url-shorterner-tampilan-halaman/)
 - [#5: Tipe Data Boolean &amp; String di Golang](https://www.ruangdeveloper.com/golang-boolean-string/)
 - [#2: Database Migration &amp; Model - Laravel URL Shorterner](https://www.ruangdeveloper.com/laravel-url-shorterner-database-migration/)
 - [#1: Setup Project - Laravel URL Shorterner](https://www.ruangdeveloper.com/setup-project-laravel-url-shorterner/)
 - [#4: Tipe Data Number di Golang](https://www.ruangdeveloper.com/golang-number/)
-- [#3: Program Hello World Di Golang](https://www.ruangdeveloper.com/golang-hello-world/)
 <!-- RUANGDEVELOPER:END -->
 
