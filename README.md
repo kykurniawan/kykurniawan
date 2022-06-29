@@ -38,10 +38,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#11: Operasi Perbandingan - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-comparison-operation/)
 - [#10: Operasi Matematika - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-math-operation/)
 - [#9: Type Declarations - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-type-declarations/)
 - [#8: Konversi Tipe Data - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-data-type-conversion/)
 - [#7: Constant - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-constant/)
-- [#4 &lpar;Terakhir&rpar;: Fungsionalitas Aplikasi - Laravel URL Shorterner](https://www.ruangdeveloper.com/laravel-url-shorterner-fungsionalitas-aplikasi/)
 <!-- RUANGDEVELOPER:END -->
 
