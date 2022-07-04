@@ -38,10 +38,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#14: Tipe Data Slice - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-slice/)
 - [#13: Tipe Data Array - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-array/)
 - [#12 Operasi Boolean - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-boolean-operation/)
 - [#11: Operasi Perbandingan - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-comparison-operation/)
 - [#10: Operasi Matematika - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-math-operation/)
-- [#9: Type Declarations - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-type-declarations/)
 <!-- RUANGDEVELOPER:END -->
 
