@@ -38,10 +38,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#19: Break &amp; Continue - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-break-continue/)
 - [#18: For Loop - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-for-loop/)
 - [#17: Switch Expression - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-switch-expression/)
 - [#16: If Expression - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-if-expression/)
 - [#15 Tipe Data Map - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-map/)
-- [#14: Tipe Data Slice - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-slice/)
 <!-- RUANGDEVELOPER:END -->
 
