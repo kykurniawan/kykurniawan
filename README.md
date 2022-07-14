@@ -38,10 +38,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#22: Function Return Value - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-function-return-value/)
 - [#21: Function Parameter - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-function-parameter/)
 - [#20: Function - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-function/)
 - [#19: Break &amp; Continue - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-break-continue/)
 - [#18: For Loop - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-for-loop/)
-- [#17: Switch Expression - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-switch-expression/)
 <!-- RUANGDEVELOPER:END -->
 
