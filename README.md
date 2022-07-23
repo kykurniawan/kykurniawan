@@ -38,10 +38,10 @@ Thank you for knowing me.
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Membuat Bot Telegram Sederhana Menggunakan PHP](https://www.ruangdeveloper.com/membuat-bot-telegram-sederhana-menggunakan-php/)
 - [Cara Mengakses Aplikasi Localhost Melalui Internet Menggunakan Ngrok](https://www.ruangdeveloper.com/cara-mengakses-aplikasi-localhost-melalui-internet/)
 - [#22: Function Return Value - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-function-return-value/)
 - [#21: Function Parameter - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-function-parameter/)
 - [#20: Function - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-function/)
-- [#19: Break &amp; Continue - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/golang-break-continue/)
 <!-- RUANGDEVELOPER:END -->
 
