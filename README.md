@@ -13,11 +13,11 @@ Thank you
 
 ### Latest Videos From [My YT Channel](https://www.youtube.com/kykurniawan)
 <!-- YOUTUBE:START -->
-- [Mencoba Filament Admin Laravel](https://www.youtube.com/watch?v=nRWl7KFf7mg)
 - [Ngoding CRUD di PHP -  CRUD Programmer The Next Generation](https://www.youtube.com/watch?v=vr0OO-IQ4w4)
 - [Membuat Situs Pemendek URL - Bagian 4 Membuat URL Pendek &amp; Validasi Inputan](https://www.youtube.com/watch?v=zmLwSpuMzKY)
 - [Membuat Situs Pemendek URL - Bagian 3 Membuat Tabel dan Model](https://www.youtube.com/watch?v=YPmMm17XQDc)
 - [Membuat Situs Pemendek URL - Bagian 2 Membuat Tampilan](https://www.youtube.com/watch?v=fW2CVksow9k)
+- [Membuat Situs Pemendek URL - Bagian 1 Menyiapkan Project](https://www.youtube.com/watch?v=_hPZWM6oaNA)
 <!-- YOUTUBE:END -->
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
