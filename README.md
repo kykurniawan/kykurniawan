@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#25: Function as Parameter - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-function-as-parameter/)
 - [Menjalankan Aplikasi Node.js di Docker](https://www.ruangdeveloper.com/blog/menjalankan-aplikasi-nodejs-di-docker/)
 - [Node.js REST API Menggunakan Express, Sequelize, dan MySQL](https://www.ruangdeveloper.com/blog/nodejs-rest-api-menggunakan-express-sequelize-dan-mysql/)
 - [Mencoba Filament Admin - Laravel](https://www.ruangdeveloper.com/blog/mencoba-filament-admin/)
 - [Cara Mengirim Email Menggunakan PHPMailer](https://www.ruangdeveloper.com/blog/cara-mengirim-email-menggunakan-php-mailer/)
-- [Incaan - Dummy Image Placeholder Gratis Dari Ruang Developer](https://www.ruangdeveloper.com/blog/dummy-image-placeholder-gratis-dari-ruangdeveloper/)
 <!-- RUANGDEVELOPER:END -->
 
