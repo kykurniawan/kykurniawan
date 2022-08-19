@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Berkenalan Dengan AdonisJS: Framework Kembaran Laravel](https://www.ruangdeveloper.com/blog/berkenalan-dengan-adonis-js/)
 - [Deploy Aplikasi Node.js di Heroku](https://www.ruangdeveloper.com/blog/deploy-aplikasi-nodejs-di-heroku/)
 - [#25: Function as Parameter - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-function-as-parameter/)
 - [Menjalankan Aplikasi Node.js di Docker](https://www.ruangdeveloper.com/blog/menjalankan-aplikasi-nodejs-di-docker/)
 - [Node.js REST API Menggunakan Express, Sequelize, dan MySQL](https://www.ruangdeveloper.com/blog/nodejs-rest-api-menggunakan-express-sequelize-dan-mysql/)
-- [Mencoba Filament Admin - Laravel](https://www.ruangdeveloper.com/blog/mencoba-filament-admin/)
 <!-- RUANGDEVELOPER:END -->
 
