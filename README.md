@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Mengenal Berbagai Jenis Testing Dalam Software Development](https://www.ruangdeveloper.com/blog/mengenal-berbagai-jenis-testing-dalam-software-development/)
 - [Membuat dan Mempublikasikan Composer Project di Packagist](https://www.ruangdeveloper.com/blog/membuat-dan-mempublikasikan-composer-project-di-packagist/)
 - [Berkenalan Dengan AdonisJS: Framework Kembaran Laravel](https://www.ruangdeveloper.com/blog/berkenalan-dengan-adonis-js/)
 - [Deploy Aplikasi Node.js di Heroku](https://www.ruangdeveloper.com/blog/deploy-aplikasi-nodejs-di-heroku/)
 - [#25: Function as Parameter - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-function-as-parameter/)
-- [Menjalankan Aplikasi Node.js di Docker](https://www.ruangdeveloper.com/blog/menjalankan-aplikasi-nodejs-di-docker/)
 <!-- RUANGDEVELOPER:END -->
 
