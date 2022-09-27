@@ -22,7 +22,7 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
-- [Menggunakan Uuid Sebagai Primary Key Di Laravel](https://www.ruangdeveloper.com/blog/menggunakan-uuid-sebagai-primary-key-di-laravel/)
+- [Menggunakan UUID Sebagai Primary Key Di Laravel](https://www.ruangdeveloper.com/blog/menggunakan-uuid-sebagai-primary-key-di-laravel/)
 - [Menggunakan Database Transaction Di Laravel](https://www.ruangdeveloper.com/blog/menggunakan-database-transaction-di-laravel/)
 - [#27: Recursive Function - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-recursive-function/)
 - [#26: Anonymous Function - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-anonymous-function/)
