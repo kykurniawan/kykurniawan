@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Menggunakan Uuid Sebagai Primary Key Di Laravel](https://www.ruangdeveloper.com/blog/menggunakan-uuid-sebagai-primary-key-di-laravel/)
 - [Menggunakan Database Transaction Di Laravel](https://www.ruangdeveloper.com/blog/menggunakan-database-transaction-di-laravel/)
 - [#27: Recursive Function - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-recursive-function/)
 - [#26: Anonymous Function - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-anonymous-function/)
 - [Apa Itu Dependency Injection &lpar;DI&rpar;?](https://www.ruangdeveloper.com/blog/apa-itu-dependency-injection/)
-- [Mengenal Berbagai Jenis Testing Dalam Software Development](https://www.ruangdeveloper.com/blog/mengenal-berbagai-jenis-testing-dalam-software-development/)
 <!-- RUANGDEVELOPER:END -->
 
