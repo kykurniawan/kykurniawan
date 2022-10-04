@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
-- [Menentukan Struktur Folder Project: per Domain atau per Layer?](https://www.ruangdeveloper.com/blog/menentukan-struktur-folder-project-per-domain-atau-per-layer/)
 - [#28: Closure - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-closure/)
 - [Adminer: Alternatif Database Client Untuk Pengguna PHPMyAdmin](https://www.ruangdeveloper.com/blog/adminer-alternatif-database-client-untuk-pengguna-phpmyadmin/)
 - [Menggunakan UUID Sebagai Primary Key Di Laravel](https://www.ruangdeveloper.com/blog/menggunakan-uuid-sebagai-primary-key-di-laravel/)
 - [Menggunakan Database Transaction Di Laravel](https://www.ruangdeveloper.com/blog/menggunakan-database-transaction-di-laravel/)
+- [#27: Recursive Function - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-recursive-function/)
 <!-- RUANGDEVELOPER:END -->
 
