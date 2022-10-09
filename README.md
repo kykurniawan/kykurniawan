@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Membuat Fitur Login With Google Menggunakan Laravel Socialite](https://www.ruangdeveloper.com/blog/membuat-fitur-login-with-google-menggunakan-laravel-socialite/)
 - [#29: Defer, Panic, &amp; Recover - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-defer-panic-recover/)
 - [Menentukan Struktur Folder Project: per Domain atau per Layer?](https://www.ruangdeveloper.com/blog/menentukan-struktur-folder-project-per-domain-atau-per-layer/)
 - [#28: Closure - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-closure/)
 - [Adminer: Alternatif Database Client Untuk Pengguna PHPMyAdmin](https://www.ruangdeveloper.com/blog/adminer-alternatif-database-client-untuk-pengguna-phpmyadmin/)
-- [Menggunakan UUID Sebagai Primary Key Di Laravel](https://www.ruangdeveloper.com/blog/menggunakan-uuid-sebagai-primary-key-di-laravel/)
 <!-- RUANGDEVELOPER:END -->
 
