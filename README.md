@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#32: Nil - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-nil/)
 - [#31: Interface - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-interface/)
 - [Apa Itu Cron Job?](https://www.ruangdeveloper.com/blog/apa-itu-cron-job/)
 - [#30: Struct - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-struct/)
 - [Membuat Fitur Login With Google Menggunakan Laravel Socialite](https://www.ruangdeveloper.com/blog/membuat-fitur-login-with-google-menggunakan-laravel-socialite/)
-- [#29: Defer, Panic, &amp; Recover - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-defer-panic-recover/)
 <!-- RUANGDEVELOPER:END -->
 
