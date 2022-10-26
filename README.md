@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#33: Error Interface - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-error-interface/)
 - [Menggunakan Multi Stage Build Saat Membuat Docker Image Project Laravel](https://www.ruangdeveloper.com/blog/menggunakan-multi-stage-build-saat-membuat-docker-image-project-laravel/)
 - [#32: Nil - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-nil/)
 - [#31: Interface - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-interface/)
 - [Apa Itu Cron Job?](https://www.ruangdeveloper.com/blog/apa-itu-cron-job/)
-- [#30: Struct - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-struct/)
 <!-- RUANGDEVELOPER:END -->
 
