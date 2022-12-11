@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a freelance web developer and a learner. I'm passionate about web development and technology. I'm looking for web developer jobs. If interested, please contact me via email at mail@rizkykurniawan.id
+I enjoy learning about technology and web development. I am familiar with JavaScript, PHP, and Go. Do you want to talk and learn with me? Please feel free to email me at mail@rizkykurniawan.id.
 
 Thank you
 
