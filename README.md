@@ -22,10 +22,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Pentingkah Belajar Bahasa Inggris Sebagai Seorang Programmer?](https://www.ruangdeveloper.com/blog/pentingkah-belajar-bahasa-inggris-sebagai-seorang-programmer/)
 - [Berkenalan Dengan Solid Principle](https://www.ruangdeveloper.com/blog/berkenalan-dengan-solid-principle/)
 - [#34: Type Assertions - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-type-assertions/)
 - [#33: Error Interface - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-error-interface/)
 - [Menggunakan Multi Stage Build Saat Membuat Docker Image Project Laravel](https://www.ruangdeveloper.com/blog/menggunakan-multi-stage-build-saat-membuat-docker-image-project-laravel/)
-- [#32: Nil - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-nil/)
 <!-- RUANGDEVELOPER:END -->
 
