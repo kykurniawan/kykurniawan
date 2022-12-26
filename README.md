@@ -6,6 +6,7 @@ Thank you
 
 ### Get Connected With Me
 - [Website](https://www.rizkykurniawan.id)
+- [Personal Blog](https://kykurniawan.com)
 - [YouTube Channel](https://www.youtube.com/kykurniawan)
 - [Instagram](https://instagram.com/qwertykurniawan)
 - [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
