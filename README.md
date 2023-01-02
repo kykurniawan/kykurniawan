@@ -23,10 +23,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
-- [Artificial Intelligence - Written by ChatGPT](https://www.ruangdeveloper.com/blog/postingan-ini-ditulis-oleh-chatgpt/)
-- [Pentingkah Belajar Bahasa Inggris Sebagai Seorang Programmer?](https://www.ruangdeveloper.com/blog/pentingkah-belajar-bahasa-inggris-sebagai-seorang-programmer/)
-- [Berkenalan Dengan Solid Principle](https://www.ruangdeveloper.com/blog/berkenalan-dengan-solid-principle/)
-- [#34: Type Assertions - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-type-assertions/)
-- [#33: Error Interface - Belajar Golang Dari Dasar](https://www.ruangdeveloper.com/blog/golang-error-interface/)
+- [Artificial Intelligence - Written by ChatGPT](https://blog.ruangdeveloper.com/postingan-ini-ditulis-oleh-chatgpt/)
+- [Pentingkah Belajar Bahasa Inggris Sebagai Seorang Programmer?](https://blog.ruangdeveloper.com/pentingkah-belajar-bahasa-inggris-sebagai-seorang-programmer/)
+- [Berkenalan Dengan Solid Principle](https://blog.ruangdeveloper.com/berkenalan-dengan-solid-principle/)
+- [#34: Type Assertions - Belajar Golang Dari Dasar](https://blog.ruangdeveloper.com/golang-type-assertions/)
+- [#33: Error Interface - Belajar Golang Dari Dasar](https://blog.ruangdeveloper.com/golang-error-interface/)
 <!-- RUANGDEVELOPER:END -->
 
