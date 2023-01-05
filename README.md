@@ -23,10 +23,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [SQL vs NoSQL Database, Pilih yang Mana?](https://blog.ruangdeveloper.com/sql-vs-nosql-database-pilih-yang-mana/)
 - [Apa itu Recursive Function?](https://blog.ruangdeveloper.com/recursive-function/)
 - [Meningkatkan Kemampuan Berlogika - Written by ChatGPT](https://blog.ruangdeveloper.com/meningkatkan-kemampuan-berlogika/)
 - [Artificial Intelligence - Written by ChatGPT](https://blog.ruangdeveloper.com/postingan-ini-ditulis-oleh-chatgpt/)
 - [Pentingkah Belajar Bahasa Inggris Sebagai Seorang Programmer?](https://blog.ruangdeveloper.com/pentingkah-belajar-bahasa-inggris-sebagai-seorang-programmer/)
-- [Berkenalan Dengan Solid Principle](https://blog.ruangdeveloper.com/berkenalan-dengan-solid-principle/)
 <!-- RUANGDEVELOPER:END -->
 
