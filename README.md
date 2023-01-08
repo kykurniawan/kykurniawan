@@ -27,6 +27,6 @@ Thank you
 - [SQL vs NoSQL Database, Pilih yang Mana?](https://blog.ruangdeveloper.com/sql-vs-nosql-database-pilih-yang-mana/)
 - [Apa itu Recursive Function?](https://blog.ruangdeveloper.com/recursive-function/)
 - [Meningkatkan Kemampuan Berlogika - Written by ChatGPT](https://blog.ruangdeveloper.com/meningkatkan-kemampuan-berlogika/)
-- [Artificial Intelligence - Written by ChatGPT](https://blog.ruangdeveloper.com/postingan-ini-ditulis-oleh-chatgpt/)
+- [Artificial Intelligence - Written by ChatGPT](https://blog.ruangdeveloper.com/artificial-intelligence/)
 <!-- RUANGDEVELOPER:END -->
 
