@@ -23,10 +23,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Natural Language Processing](https://blog.ruangdeveloper.com/natural-language-processing/)
 - [#35: Pointer - Belajar Golang Dari Dasar](https://blog.ruangdeveloper.com/golang-pointer/)
 - [Unified Modeling Language &lpar;UML&rpar;](https://blog.ruangdeveloper.com/unified-modeling-language/)
 - [Normalisasi Database](https://blog.ruangdeveloper.com/normalisasi-database/)
 - [SQL vs NoSQL Database, Pilih yang Mana?](https://blog.ruangdeveloper.com/sql-vs-nosql-database-pilih-yang-mana/)
-- [Apa itu Recursive Function?](https://blog.ruangdeveloper.com/recursive-function/)
 <!-- RUANGDEVELOPER:END -->
 
