@@ -23,10 +23,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [#36: Package dan Import - Belajar Golang Dari Dasar](https://blog.ruangdeveloper.com/golang-package-dan-import/)
 - [Mencoba Bootstrap Dark Mode](https://blog.ruangdeveloper.com/mencoba-bootstrap-dark-mode/)
 - [Pentingnya Belajar Git](https://blog.ruangdeveloper.com/pentingnya-belajar-git/)
 - [Natural Language Processing](https://blog.ruangdeveloper.com/natural-language-processing/)
 - [#35: Pointer - Belajar Golang Dari Dasar](https://blog.ruangdeveloper.com/golang-pointer/)
-- [Unified Modeling Language &lpar;UML&rpar;](https://blog.ruangdeveloper.com/unified-modeling-language/)
 <!-- RUANGDEVELOPER:END -->
 
