@@ -17,7 +17,7 @@ jobs:
         with:
           comment_tag_name: "RUANGDEVELOPER"
           commit_message: "Updated readme with latest ruangdeveloper posts"
-          feed_list: "https://www.ruangdeveloper.com/blog/index.xml"
+          feed_list: "https://blog.ruangdeveloper.com/index.xml"
   update-readme-with-youtube-videos:
     name: Update this repo's README with latest youtube videos
     runs-on: ubuntu-latest
