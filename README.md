@@ -23,10 +23,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Maraknya Coding Assistance Berbasis AI](https://blog.ruangdeveloper.com/maraknya-coding-assistance-berbasis-ai/)
 - [Jangan Terburu-buru Belajar Framework!](https://blog.ruangdeveloper.com/jangan-terburu-buru-belajar-framework/)
 - [Tentang Kompleksitas Waktu: Mengapa Penting dalam Pemrograman?](https://blog.ruangdeveloper.com/tentang-kompleksitas-waktu-mengapa-penting-dalam-pemrograman/)
 - [Perbedaan antara Procedural dan Object Oriented Programming](https://blog.ruangdeveloper.com/perbedaan-antara-procedural-dan-object-oriented-programming/)
 - [#36: Package dan Import - Belajar Golang Dari Dasar](https://blog.ruangdeveloper.com/golang-package-dan-import/)
-- [Mencoba Bootstrap Dark Mode](https://blog.ruangdeveloper.com/mencoba-bootstrap-dark-mode/)
 <!-- RUANGDEVELOPER:END -->
 
