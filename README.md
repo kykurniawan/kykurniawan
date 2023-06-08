@@ -23,10 +23,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Membuat Global Error Handler Go-Lang, Gin Fremework](https://blog.ruangdeveloper.com/membuat-global-error-handler-go-gin/)
 - [Dependency Injection di Go-Lang Menggunakan Wire](https://blog.ruangdeveloper.com/dependency-injection-di-go-lang-menggunakan-wire/)
 - [Menggunakan Go-Lang Pointer Dengan Efektif](https://blog.ruangdeveloper.com/menggunakan-go-lang-pointer-dengan-efektif/)
 - [Maraknya Coding Assistance Berbasis AI](https://blog.ruangdeveloper.com/maraknya-coding-assistance-berbasis-ai/)
 - [Jangan Terburu-buru Belajar Framework!](https://blog.ruangdeveloper.com/jangan-terburu-buru-belajar-framework/)
-- [Tentang Kompleksitas Waktu: Mengapa Penting dalam Pemrograman?](https://blog.ruangdeveloper.com/tentang-kompleksitas-waktu-mengapa-penting-dalam-pemrograman/)
 <!-- RUANGDEVELOPER:END -->
 
