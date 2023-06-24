@@ -23,10 +23,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Access Modifier pada Pemrograman Berbasis Objek](https://blog.ruangdeveloper.com/access-modifier-pada-pemrograman-berbasis-objek/)
 - [Membuat Global Error Handler Go-Lang, Gin Fremework](https://blog.ruangdeveloper.com/membuat-global-error-handler-go-gin/)
 - [Dependency Injection di Go-Lang Menggunakan Wire](https://blog.ruangdeveloper.com/dependency-injection-di-go-lang-menggunakan-wire/)
 - [Menggunakan Go-Lang Pointer Dengan Efektif](https://blog.ruangdeveloper.com/menggunakan-go-lang-pointer-dengan-efektif/)
 - [Maraknya Coding Assistance Berbasis AI](https://blog.ruangdeveloper.com/maraknya-coding-assistance-berbasis-ai/)
-- [Jangan Terburu-buru Belajar Framework!](https://blog.ruangdeveloper.com/jangan-terburu-buru-belajar-framework/)
 <!-- RUANGDEVELOPER:END -->
 
