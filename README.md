@@ -1,6 +1,12 @@
-# Hi there 👋
+👋 Hi there, I'm Rizky Kurniawan!
 
-I enjoy learning about technology and web development. I am familiar with JavaScript, PHP, and Go. Do you want to talk and learn with me? Please feel free to email me at mail@rizkykurniawan.id.
+💻 I'm a backend developer with a passion for technology and web development. I have expertise in JavaScript, TypeScript, PHP, and I'm currently diving deep into Golang and Java.
+
+🌱 I'm always eager to learn and collaborate with others in the programming world. Whether you want to discuss a coding challenge, explore new technologies, or simply have a programming-related question, please don't hesitate to email me at contact.rizkykurniawan@gmail.com.
+
+💼 For business inquiries, job opportunities, or any other professional matters, you can reach me at workspace.rizkykurniawan@gmail.com. Let's connect and explore potential collaborations!
+
+📫 Feel free to drop me a message, and let's code and grow together! ⌨️
 
 Thank you
 
