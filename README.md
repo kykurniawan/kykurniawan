@@ -11,12 +11,7 @@
 Thank you
 
 ### Get Connected With Me
-- [Website](https://www.rizkykurniawan.id)
-- [Personal Blog](https://kykurniawan.com)
-- [YouTube Channel](https://www.youtube.com/kykurniawan)
-- [Instagram](https://instagram.com/qwertykurniawan)
-- [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
-- [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
+[Website](https://www.rizkykurniawan.id) | [Personal Blog](https://kykurniawan.com) | [YouTube Channel](https://www.youtube.com/kykurniawan) | [Instagram](https://instagram.com/qwertykurniawan) | [LinkedIn](https://www.linkedin.com/in/kykurniawan/) | [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
 
 ### Latest Videos From [My YT Channel](https://www.youtube.com/kykurniawan)
 <!-- YOUTUBE:START -->
