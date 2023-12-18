@@ -1,6 +1,6 @@
 👋 Hi there, I'm Rizky Kurniawan!
 
-💻 I'm a backend developer with a passion for technology and web development. I have expertise in JavaScript, TypeScript, PHP, and I'm currently diving deep into Golang and Java.
+💻 I'm a backend engineer with a passion for technology and web development. I have expertise in JavaScript, TypeScript, PHP, and I'm currently diving deep into Golang and Java.
 
 🌱 I'm always eager to learn and collaborate with others in the programming world. Whether you want to discuss a coding challenge, explore new technologies, or simply have a programming-related question, please don't hesitate to email me at contact.rizkykurniawan@gmail.com.
 
