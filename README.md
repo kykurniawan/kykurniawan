@@ -24,10 +24,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Bertahan sebagai Programmer di Tengah Maraknya Perkembangan Artificial Intelligence](https://blog.ruangdeveloper.com/bertahan-sebagai-programmer-di-tengah-maraknya-perkembangan-ai/)
 - [Membuat Queue Job Nestjs Menggunakan Bull](https://blog.ruangdeveloper.com/membuat-queue-job-nestjs-menggunakan-bull/)
 - [Mengirim Email Menggunakan Golang](https://blog.ruangdeveloper.com/mengirim-email-menggunakan-golang/)
 - [Laravel Settings: Kelola Pengaturan Aplikasi Laravel Dengan Mudah](https://blog.ruangdeveloper.com/mengelola-pengaturan-aplikasi-laravel-dengan-mudah-menggunakan-laravel-settings/)
 - [Panduan Lengkap Membuat Prompt yang Tepat untuk Berinteraksi dengan Chat GPT](https://blog.ruangdeveloper.com/panduan-lengkap-membuat-prompt-yang-tepat-untuk-berinteraksi-dengan-chat-gpt/)
-- [Bagaimana Menentukan Tech Stack Yang Tepat Untuk Pengembangan Aplikasi](https://blog.ruangdeveloper.com/bagaimana-menentukan-tech-stack-yang-tepat-untuk-pengembangan-aplikasi/)
 <!-- RUANGDEVELOPER:END -->
 
