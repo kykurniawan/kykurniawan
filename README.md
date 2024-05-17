@@ -24,10 +24,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Chat GPT Kemahalan? Yuk, Install GPT di Computer Sendiri!](https://blog.ruangdeveloper.com/chat-gpt-kemahalan-yuk-install-gpt-di-computer-sendiri/)
 - [Bertahan sebagai Programmer di Tengah Maraknya Perkembangan Artificial Intelligence](https://blog.ruangdeveloper.com/bertahan-sebagai-programmer-di-tengah-maraknya-perkembangan-ai/)
 - [Membuat Queue Job Nestjs Menggunakan Bull](https://blog.ruangdeveloper.com/membuat-queue-job-nestjs-menggunakan-bull/)
 - [Mengirim Email Menggunakan Golang](https://blog.ruangdeveloper.com/mengirim-email-menggunakan-golang/)
 - [Laravel Settings: Kelola Pengaturan Aplikasi Laravel Dengan Mudah](https://blog.ruangdeveloper.com/mengelola-pengaturan-aplikasi-laravel-dengan-mudah-menggunakan-laravel-settings/)
-- [Panduan Lengkap Membuat Prompt yang Tepat untuk Berinteraksi dengan Chat GPT](https://blog.ruangdeveloper.com/panduan-lengkap-membuat-prompt-yang-tepat-untuk-berinteraksi-dengan-chat-gpt/)
 <!-- RUANGDEVELOPER:END -->
 
