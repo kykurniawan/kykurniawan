@@ -24,10 +24,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Memahami dan Mencegah Resiko Keamanan Pada API Endpoint](https://blog.ruangdeveloper.com/memahami-dan-mencegah-resiko-keamanan-pada-api-endpoint/)
 - [Berkenalan Dengan ABAP Programming Language](https://blog.ruangdeveloper.com/berkenalan-dengan-abap-programming-language/)
 - [Menambahkan Fitur Command Line Pada Project ASP.NET Core](https://blog.ruangdeveloper.com/menambahkan-fitur-command-line-pada-project-aspnetcore/)
 - [Chat GPT Kemahalan? Yuk, Install GPT di Computer Sendiri!](https://blog.ruangdeveloper.com/chat-gpt-kemahalan-yuk-install-gpt-di-computer-sendiri/)
 - [Bertahan sebagai Programmer di Tengah Maraknya Perkembangan Artificial Intelligence](https://blog.ruangdeveloper.com/bertahan-sebagai-programmer-di-tengah-maraknya-perkembangan-ai/)
-- [Membuat Queue Job Nestjs Menggunakan Bull](https://blog.ruangdeveloper.com/membuat-queue-job-nestjs-menggunakan-bull/)
 <!-- RUANGDEVELOPER:END -->
 
