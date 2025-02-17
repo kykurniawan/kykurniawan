@@ -24,10 +24,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Jangan Mau Kalah Sama AI Chatbot, Kamu Juga Perlu Belajar Skill Ini!](https://blog.ruangdeveloper.com/jangan-mau-kalah-sama-ai-chatbot-kamu-juga-perlu-belajar-skill-ini/)
 - [Laravel 12 Akan Rilis: Apa Yang Baru?](https://blog.ruangdeveloper.com/laravel-12-akan-rilis-apa-yang-baru/)
 - [Supermaven: Alternatif GitHub Copilot dengan Free Tier](https://blog.ruangdeveloper.com/supermaven-alternatif-github-copilot-dengan-free-tier/)
 - [Memahami dan Mencegah Resiko Keamanan Pada API Endpoint](https://blog.ruangdeveloper.com/memahami-dan-mencegah-resiko-keamanan-pada-api-endpoint/)
 - [Berkenalan Dengan ABAP Programming Language](https://blog.ruangdeveloper.com/berkenalan-dengan-abap-programming-language/)
-- [Menambahkan Fitur Command Line Pada Project ASP.NET Core](https://blog.ruangdeveloper.com/menambahkan-fitur-command-line-pada-project-aspnetcore/)
 <!-- RUANGDEVELOPER:END -->
 
