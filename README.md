@@ -15,10 +15,10 @@ Thank you
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Mengelola Database Migration di Project Golang](https://blog.ruangdeveloper.com/mengelola-database-migration-di-project-golang/)
 - [Hati-Hati dengan Chaining GORM: Update Tidak Jalan Tapi Select Aman?](https://blog.ruangdeveloper.com/hati-hati-dengan-chaining-gorm/)
 - [Jangan Mau Kalah Sama AI Chatbot, Kamu Juga Perlu Belajar Skill Ini!](https://blog.ruangdeveloper.com/jangan-mau-kalah-sama-ai-chatbot-kamu-juga-perlu-belajar-skill-ini/)
 - [Laravel 12 Akan Rilis: Apa Yang Baru?](https://blog.ruangdeveloper.com/laravel-12-akan-rilis-apa-yang-baru/)
 - [Supermaven: Alternatif GitHub Copilot dengan Free Tier](https://blog.ruangdeveloper.com/supermaven-alternatif-github-copilot-dengan-free-tier/)
-- [Memahami dan Mencegah Resiko Keamanan Pada API Endpoint](https://blog.ruangdeveloper.com/memahami-dan-mencegah-resiko-keamanan-pada-api-endpoint/)
 <!-- RUANGDEVELOPER:END -->
 
