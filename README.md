@@ -1,14 +1,11 @@
-👋 Hi there, I'm Rizky Kurniawan!
+👋 Hi, I'm Rizky Kurniawan
 
-💻 I'm a backend engineer with a passion for technology and web development. I have expertise in JavaScript, TypeScript, PHP, and I'm currently diving deep into Golang and Java.
+I'm a software engineer from Katingan, Central Kalimantan, focused on building scalable systems using .NET, NestJS, ExpressJS, Go, and Laravel. I enjoy solving complex problems and sharing insights as a tech blogger at **Ruang Developer**.
 
-🌱 I'm always eager to learn and collaborate with others in the programming world. Whether you want to discuss a coding challenge, explore new technologies, or simply have a programming-related question, please don't hesitate to email me at contact.rizkykurniawan@gmail.com.
+- 📬 General inquiries & collaborations: contact.rizkykurniawan@gmail.com  
+- 💼 Business or job opportunities: workspace.rizkykurniawan@gmail.com
 
-💼 For business inquiries, job opportunities, or any other professional matters, you can reach me at workspace.rizkykurniawan@gmail.com. Let's connect and explore potential collaborations!
-
-📫 Feel free to drop me a message, and let's code and grow together! ⌨️
-
-Thank you
+Thanks for visiting!
 
 ### Get Connected With Me
 [Website](https://www.rizkykurniawan.id) | [Blog](https://blog.ruangdeveloper.com) | [YouTube Channel](https://www.youtube.com/kykurniawan) | [LinkedIn](https://www.linkedin.com/in/kykurniawan/) | [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
