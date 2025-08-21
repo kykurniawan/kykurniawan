@@ -12,10 +12,10 @@ Thanks for visiting!
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Desain Database Lebih Mudah di Visual Studio Code dengan DBML Previewer](https://blog.ruangdeveloper.com/desain-database-lebih-mudah-di-vscode-dengan-dbml-previewer/)
 - [Macam-macam Tools AI Untuk Bantu Ngoding](https://blog.ruangdeveloper.com/macam-macam-tools-ai-untuk-bantu-ngoding/)
 - [Mengelola Database Migration di Project Golang](https://blog.ruangdeveloper.com/mengelola-database-migration-di-project-golang/)
 - [Hati-Hati dengan Chaining GORM: Update Tidak Jalan Tapi Select Aman?](https://blog.ruangdeveloper.com/hati-hati-dengan-chaining-gorm/)
 - [Jangan Mau Kalah Sama AI Chatbot, Kamu Juga Perlu Belajar Skill Ini!](https://blog.ruangdeveloper.com/jangan-mau-kalah-sama-ai-chatbot-kamu-juga-perlu-belajar-skill-ini/)
-- [Laravel 12 Akan Rilis: Apa Yang Baru?](https://blog.ruangdeveloper.com/laravel-12-akan-rilis-apa-yang-baru/)
 <!-- RUANGDEVELOPER:END -->
 
