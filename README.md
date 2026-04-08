@@ -12,10 +12,10 @@ Thanks for visiting!
 
 ### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
 <!-- RUANGDEVELOPER:START -->
+- [Mengenal CI/CD - Continuous Integration dan Continuous Deployment](https://blog.ruangdeveloper.com/mengenal-ci-cd-continuous-integration-dan-continuous-deployment/)
 - [Coding dengan AI Agent: Tips dan Trik Memaksimalkan Produktivitas untuk Developer](https://blog.ruangdeveloper.com/coding-dengan-ai-agent-tips-dan-trik-untuk-developer/)
 - [Apa Itu GraphQL dan Perbedaannya dengan REST API?](https://blog.ruangdeveloper.com/apa-itu-graphql-dan-perbedaannya-dengan-rest-api/)
 - [Desain Database Lebih Mudah di Visual Studio Code dengan DBML Previewer](https://blog.ruangdeveloper.com/desain-database-lebih-mudah-di-vscode-dengan-dbml-previewer/)
 - [Macam-macam Tools AI Untuk Bantu Ngoding](https://blog.ruangdeveloper.com/macam-macam-tools-ai-untuk-bantu-ngoding/)
-- [Mengelola Database Migration di Project Golang](https://blog.ruangdeveloper.com/mengelola-database-migration-di-project-golang/)
 <!-- RUANGDEVELOPER:END -->
 
