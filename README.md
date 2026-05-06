@@ -12,10 +12,9 @@ Thanks for visiting!
 
 ### Latest [Blog](https://www.rizkykurniawan.id/blog) Posts
 <!-- BLOG:START -->
-- [Apa Itu Spec-Driven Development: Melampaui Vibe Coding dengan AI Agent](https://blog.ruangdeveloper.com/apa-itu-spec-driven-development/)
-- [Mengenal CI/CD - Continuous Integration dan Continuous Deployment](https://blog.ruangdeveloper.com/mengenal-ci-cd-continuous-integration-dan-continuous-deployment/)
-- [Coding dengan AI Agent: Tips dan Trik Memaksimalkan Produktivitas untuk Developer](https://blog.ruangdeveloper.com/coding-dengan-ai-agent-tips-dan-trik-untuk-developer/)
-- [Apa Itu GraphQL dan Perbedaannya dengan REST API?](https://blog.ruangdeveloper.com/apa-itu-graphql-dan-perbedaannya-dengan-rest-api/)
-- [Desain Database Lebih Mudah di Visual Studio Code dengan DBML Previewer](https://blog.ruangdeveloper.com/desain-database-lebih-mudah-di-vscode-dengan-dbml-previewer/)
+- [Productive Procrastination: Busy Every Day but Results Nothing](https://www.rizkykurniawan.id/blog/productive-procrastination-busy-every-day-but-results-nothing/)
+- [Why I Never Finished My SaaS &lpar;and Maybe You Didn&#39;t Either&rpar;](https://www.rizkykurniawan.id/blog/why-i-never-finished-my-saas-and-maybe-you-didnt-either/)
+- [The Shift From Writing Code to Designing Systems in an AI-Driven World](https://www.rizkykurniawan.id/blog/the-shift-from-writing-code-to-designing-systems/)
+- [Why Do I Choose Hugo for My Personal Website and Blogging Platform?](https://www.rizkykurniawan.id/blog/why-do-i-choose-hugo-for-my-personal-website-and-blogging-platform/)
 <!-- BLOG:END -->
 
