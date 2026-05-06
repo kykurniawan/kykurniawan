@@ -9,12 +9,12 @@ on:
 
 jobs:
   update-readme-with-blog-post:
-    name: Update this repo's README with latest ruangdeveloper posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "RUANGDEVELOPER"
+          comment_tag_name: "BLOG"
           commit_message: "Updated readme with latest ruangdeveloper posts"
-          feed_list: "https://blog.ruangdeveloper.com/index.xml"
+          feed_list: "https://www.rizkykurniawan.id/blog/index.xml"
