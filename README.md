@@ -8,7 +8,7 @@ I'm a software engineer from Katingan, Central Kalimantan, focused on building s
 Thanks for visiting!
 
 ### Get Connected With Me
-[Website](https://www.rizkykurniawan.id) | [Blog](https://blog.ruangdeveloper.com) | [YouTube Channel](https://www.youtube.com/kykurniawan) | [LinkedIn](https://www.linkedin.com/in/kykurniawan/) | [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
+[Website](https://www.rizkykurniawan.id) | [Ruang Developer](https://blog.ruangdeveloper.com) | [YouTube Channel](https://www.youtube.com/kykurniawan) | [LinkedIn](https://www.linkedin.com/in/kykurniawan/) | [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
 
 ### Latest [Blog](https://www.rizkykurniawan.id/blog) Posts
 <!-- BLOG:START -->
