@@ -1,6 +1,6 @@
 👋 Hi, I'm Rizky Kurniawan
 
-I'm a software engineer from Katingan, Central Kalimantan, focused on building scalable systems using .NET, NestJS, ExpressJS, Go, and Laravel. I enjoy solving complex problems and sharing insights as a tech blogger at **Ruang Developer**.
+I'm a software engineer from Katingan, Central Kalimantan, focused on building scalable systems using .NET, NestJS, ExpressJS, Go, and Laravel.
 
 - 📬 General inquiries & friendly discussion: contact.rizkykurniawan@gmail.com  
 - 💼 Collaboration, Business or job opportunities: workspace.rizkykurniawan@gmail.com
@@ -10,7 +10,7 @@ Thanks for visiting!
 ### Get Connected With Me
 [Website](https://www.rizkykurniawan.id) | [Blog](https://blog.ruangdeveloper.com) | [YouTube Channel](https://www.youtube.com/kykurniawan) | [LinkedIn](https://www.linkedin.com/in/kykurniawan/) | [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
 
-### Latest Posts From [Ruang Developer](https://www.ruangdeveloper.com)
+### Latest [Blog](https://www.rizkykurniawan.id/blog) Posts
 <!-- BLOG:START -->
 - [Apa Itu Spec-Driven Development: Melampaui Vibe Coding dengan AI Agent](https://blog.ruangdeveloper.com/apa-itu-spec-driven-development/)
 - [Mengenal CI/CD - Continuous Integration dan Continuous Deployment](https://blog.ruangdeveloper.com/mengenal-ci-cd-continuous-integration-dan-continuous-deployment/)
