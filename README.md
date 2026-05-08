@@ -12,6 +12,7 @@ Thanks for visiting!
 
 ### Latest [Blog](https://www.rizkykurniawan.id/blog) Posts
 <!-- BLOG:START -->
+- [The Real Cost of Context Switching as a Developer](https://www.rizkykurniawan.id/blog/the-real-cost-of-context-switching-as-a-developer/)
 - [Productive Procrastination: Busy Every Day but Results Nothing](https://www.rizkykurniawan.id/blog/productive-procrastination-busy-every-day-but-results-nothing/)
 - [Why I Never Finished My SaaS &lpar;and Maybe You Didn&#39;t Either&rpar;](https://www.rizkykurniawan.id/blog/why-i-never-finished-my-saas-and-maybe-you-didnt-either/)
 - [The Shift From Writing Code to Designing Systems in an AI-Driven World](https://www.rizkykurniawan.id/blog/the-shift-from-writing-code-to-designing-systems/)
