@@ -3,6 +3,7 @@
 Backend engineer from Indonesia, focused on building backend systems across different tech stacks.
 
 📬 General inquiries & discussions: contact.rizkykurniawan@gmail.com
+
 💼 Collaboration, business, or job opportunities: workspace.rizkykurniawan@gmail.com
 
 Thanks for stopping by!
