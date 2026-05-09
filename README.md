@@ -1,11 +1,11 @@
 👋 Hi, I'm Rizky Kurniawan
 
-I'm a software engineer from Katingan, Central Kalimantan, focused on building scalable systems using .NET, NestJS, ExpressJS, Go, and Laravel.
+Backend engineer from Indonesia, focused on building backend systems across different tech stacks.
 
-- 📬 General inquiries & friendly discussion: contact.rizkykurniawan@gmail.com  
-- 💼 Collaboration, Business or job opportunities: workspace.rizkykurniawan@gmail.com
+📬 General inquiries & discussions: contact.rizkykurniawan@gmail.com
+💼 Collaboration, business, or job opportunities: workspace.rizkykurniawan@gmail.com
 
-Thanks for visiting!
+Thanks for stopping by!
 
 ### Get Connected With Me
 [Website](https://www.rizkykurniawan.id) | [Ruang Developer](https://blog.ruangdeveloper.com) | [YouTube Channel](https://www.youtube.com/kykurniawan) | [LinkedIn](https://www.linkedin.com/in/kykurniawan/) | [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
