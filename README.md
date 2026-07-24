@@ -1,15 +1,11 @@
-👋 Hi, I'm Rizky Kurniawan
+Hi there! I'm Rizky Kurniawan.
+I'm a software engineer based in Indonesia. I spend most of my time building backend systems and enjoy working across a variety of tech stacks.
 
-Backend engineer from Indonesia, focused on building backend systems across different tech stacks.
+Feel free to reach out for a chat or general questions: contact.rizkykurniawan@gmail.com
+For collaborations, work, or business opportunities: workspace.rizkykurniawan@gmail.com
 
-📬 General inquiries & discussions: contact.rizkykurniawan@gmail.com
-
-💼 Collaboration, business, or job opportunities: workspace.rizkykurniawan@gmail.com
-
-Thanks for stopping by!
-
-### Get Connected With Me
-[Website](https://www.rizkykurniawan.id) | [Ruang Developer](https://blog.ruangdeveloper.com) | [YouTube Channel](https://www.youtube.com/kykurniawan) | [LinkedIn](https://www.linkedin.com/in/kykurniawan/) | [Dicoding](https://www.dicoding.com/users/rizkykurniawan)
+### Find Me Here
+[Website](https://www.rizkykurniawan.id) | [Ruang Developer Blog](https://blog.ruangdeveloper.com) | [YouTube Channel](https://www.youtube.com/kykurniawan) | [LinkedIn](https://www.linkedin.com/in/kykurniawan/)
 
 ### Latest [Blog](https://www.rizkykurniawan.id/blog) Posts
 <!-- BLOG:START -->
